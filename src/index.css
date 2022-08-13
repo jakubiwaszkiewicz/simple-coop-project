@@ -63,5 +63,54 @@ nav a:hover {
 
 nav a:focus{
   text-shadow: 0px 0px 4px 4px #F4F3EE;
-  transform: ;
+}
+
+/* ///// Home section ///// */
+
+header {
+  width: 100vw;
+  height: 100vh;
+  background: #E0AFA0;
+}
+
+/* ///// About section ///// */
+
+#about {
+  width: 100vw;
+  height: 100vh;
+  background: #8A817C;
+}
+
+/* ///// Experiences section ///// */
+
+#experiences {
+  width: 100vw;
+  height: 100vh;
+  background: #E0AFA0;
+}
+
+/* ///// Portfolio section ///// */
+
+main {
+  width: 100vw;
+  height: 100vh;
+  background: #8A817C;
+}
+
+/* ///// Contact section ///// */
+
+#contact {
+  width: 100vw;
+  height: 90vh;
+  background: #E0AFA0;
+}
+
+
+
+/* ///// Footer section  ///// */
+
+Footer {
+  width: 100vw;
+  height: 10vh;
+  background: #8A817C;
 }

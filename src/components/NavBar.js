@@ -1,0 +1,14 @@
+export default function NavBar () {
+    return (
+        <nav>
+            <h3>Damian Filipiak</h3>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Experiences</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    )
+}
